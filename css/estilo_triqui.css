@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+.victorias
+{
+	color:#090;
+	font-size:17px;
+	font-weight:bold;
+}
+.derrotas
+{
+	color:#F00;
+	font-size:17px;
+	font-weight:bold;
+}
+.empates
+{
+	color:#00F;
+	font-size:17px;
+	font-weight:bold;	
+}
+.texto
+{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:18px;
+	color:#333;	
+}
+.boton
+{
+	border-radius:10px;
+	border-color:#000;
+	padding:5px;
+}
